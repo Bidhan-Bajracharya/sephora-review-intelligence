@@ -1,0 +1,2 @@
+# Ignore __pycache__ directories inside app/pages
+app/pages/**/__pycache__/

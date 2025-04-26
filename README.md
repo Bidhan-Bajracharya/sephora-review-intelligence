@@ -61,7 +61,11 @@ The application will launch locally at:
 
 ## 📸 Screenshots
 
-*(Add a few screenshots of the dashboard and sentiment page here later!)*
+![](https://github.com/Bidhan-Bajracharya/sephora-review-intelligence/blob/main/static/p1.png)
+![](https://github.com/Bidhan-Bajracharya/sephora-review-intelligence/blob/main/static/p2.png)
+![](https://github.com/Bidhan-Bajracharya/sephora-review-intelligence/blob/main/static/p3.png)
+![](https://github.com/Bidhan-Bajracharya/sephora-review-intelligence/blob/main/static/p4.png)
+![](https://github.com/Bidhan-Bajracharya/sephora-review-intelligence/blob/main/static/p5.png)
 
 <br/>
 
